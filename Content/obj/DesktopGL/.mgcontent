@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Models/GrassHex.fbx</File>
+    <File>C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Models/HexModel.fbx</File>
+    <File>C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Models/MountainHex.fbx</File>
+    <File>C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Models/ship1_c.tga</File>
+    <File>C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Models/StoneHex.fbx</File>
+    <File>C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Shaders/ClearGBuffer.fx</File>
+    <File>C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Shaders/RenderGBuffer.fx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

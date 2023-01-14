@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Models/GrassHex.fbx","C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/bin/DesktopGL/Models/GrassHex.xnb","ModelProcessor","ModelContent",15148,1937,0.165753
+"C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Models/HexModel.fbx","C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/bin/DesktopGL/Models/HexModel.xnb","ModelProcessor","ModelContent",11948,1937,0.0026195
+"C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Models/MountainHex.fbx","C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/bin/DesktopGL/Models/MountainHex.xnb","ModelProcessor","ModelContent",15148,1937,0.0029783
+"C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Models/ship1_c.tga","C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/bin/DesktopGL/Models/ship1_c.xnb","TextureProcessor","Texture2DContent",3145772,4194389,0.1253348
+"C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Models/StoneHex.fbx","C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/bin/DesktopGL/Models/StoneHex.xnb","ModelProcessor","ModelContent",15148,1937,0.0026266
+"C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Shaders/ClearGBuffer.fx","C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/bin/DesktopGL/Shaders/ClearGBuffer.xnb","EffectProcessor","CompiledEffectContent",997,1028,0.2045408
+"C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/Shaders/RenderGBuffer.fx","C:/Users/Nick Lawson/Desktop/dev/Civilized/Content/bin/DesktopGL/Shaders/RenderGBuffer.xnb","EffectProcessor","CompiledEffectContent",3094,4029,0.2448178
